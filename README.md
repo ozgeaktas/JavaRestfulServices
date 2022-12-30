@@ -20,3 +20,5 @@
 <li>Lombok</li>
 <li>Swagger</li>
 <li> H2 Database</li>
+<li>Validation</li>
+<li>Spring Security</li>
