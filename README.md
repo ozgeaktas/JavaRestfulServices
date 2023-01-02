@@ -22,3 +22,8 @@
 <li> H2 Database</li>
 <li>Validation</li>
 <li>Spring Security</li>
+***
+<h1> Installation </h1>
+git clone 
+
+<h1> REST API Documentation- Swagger and Open API
