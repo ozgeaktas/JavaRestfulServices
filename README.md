@@ -6,6 +6,7 @@
 <li>Defining Request and Response structures</li>
 <li>Using appropriate Response Status(200,404,500,...)</li>
 <li>Security,Validation, Exception Handling...</li>
+<li> Negotiation, Internationalization-i18n </li>
 <b> Key Resources: </b>
 <li>Users</li>
 <li>Posts</li>
