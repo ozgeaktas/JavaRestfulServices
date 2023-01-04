@@ -27,4 +27,6 @@
 <h1> Installation </h1>
 git clone https://github.com/ozgeaktas/JavaRestfulServices.git
 
-<h1> REST API Documentation- Swagger and Open API
+<h1>Project Code Structure</h1>
+
+<h1> REST API Documentation- Swagger and Open API </h1>
